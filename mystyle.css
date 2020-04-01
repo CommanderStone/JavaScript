@@ -32,12 +32,21 @@ body {
 }
 
 
+
 .allWheels {
   position: relative;
   font-size: 90pt;
   color: yellow;;
   height: 180px;
-  width: 270px
+  width: 270px;
+  opacity: 1;
+  animation-name: blaue;
+  animation-duration: 4s;
+}
+
+@@keyframes blaue {
+  from {height: 180px;}
+  to {height: 0px;}
 }
 
 .wheel_row1_1 {

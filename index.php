@@ -33,7 +33,8 @@
           </div>
 
         </div>
-        <div class="infotop">Hier kommen ganz viele Dinge rein.
+        <div class="infotop">
+          <button type="button" id="button" name="button">SPIN</button>
         </div>
     </div>
 </body>
