@@ -11,25 +11,25 @@
 
         <div class="wheelwrapper">
 
-          <div class="wheel_row1_1">BAR
+          <div class="allWheels wheel_row1_1"><img src="pictures/7yellow.png" alt="">
           </div>
-          <div class="wheel_row1_2">ab
+          <div class="allWheels wheel_row1_2"><img src="pictures/freespins.png" alt="">
           </div>
-          <div class="wheel_row1_3">ab
-          </div>
-
-          <div class="wheel_row2_1">ab
-          </div>
-          <div class="wheel_row2_2">ab
-          </div>
-          <div class="wheel_row2_3">ab
+          <div class="allWheels wheel_row1_3"><img src="pictures/wild.png" alt="">
           </div>
 
-          <div class="wheel_row3_1">ab
+          <div class="allWheels wheel_row2_1"><img src="pictures/777.png" alt="">
           </div>
-          <div class="wheel_row3_2">ab
+          <div class="allWheels wheel_row2_2"><img src="pictures/7blue.png" alt="">
           </div>
-          <div class="wheel_row3_3">ab
+          <div class="allWheels wheel_row2_3"><img src="pictures/bar3.png" alt="">
+          </div>
+
+          <div class="allWheels wheel_row3_1"><img src="pictures/bar1.png" alt="">
+          </div>
+          <div class="allWheels wheel_row3_2"><img src="pictures/bar2.png" alt="">
+          </div>
+          <div class="allWheels wheel_row3_3"><img src="pictures/bar2.png" alt="">
           </div>
 
         </div>
@@ -38,4 +38,3 @@
     </div>
 </body>
 </html>
-340
