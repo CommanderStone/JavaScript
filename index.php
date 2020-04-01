@@ -8,8 +8,18 @@
 </head>
 <body>
     <div class="rahmen">
-        <div class="info-top">Hier kommen ganz viele Infos rein.
 
+        <div class="wheelwrapper">
+
+          <div class="wheel">a
+          </div>
+          <div class="wheel1">ab
+          </div>
+          <div class="wheel2">ab
+          </div>
+
+        </div>
+        <div class="infotop">Hier kommen ganz viele Dinge rein.
         </div>
     </div>
 </body>
