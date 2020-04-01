@@ -16,7 +16,7 @@ body {
   bottom:-60px;
   left: 20px;
   width: 1160px;
-  height: 120px;
+  height: 100px;
   background-color: yellow;
 }
 
@@ -25,12 +25,15 @@ body {
   top: 30px;
   left: 150px;
   width: 900px;
-  height: 600px;
-  background-color: grey;
+  height: 620px;
+  background: rgba(220,160,140,0.5);
 }
 
-.wheel {
+.wheel_row1_1 {
   position: relative;
+  justify-content: center;
+  font-size: 90pt;
+  color: black;
   top: 20px;
   left: 20px;
   width: 270px;
@@ -38,7 +41,7 @@ body {
   background-color: yellow;
 }
 
-.wheel1 {
+.wheel_row1_2 {
   position: relative;
   top: -160px;
   left: 310px;
@@ -47,9 +50,65 @@ body {
   background-color: yellow;
 }
 
-.wheel2 {
+.wheel_row1_3 {
   position: relative;
   top: -340px;
+  left: 600px;
+  width: 270px;
+  height: 180px;
+  background-color: yellow;
+}
+
+
+.wheel_row2_1 {
+  position: relative;
+  top: -320px;
+  left: 20px;
+  width: 270px;
+  height: 180px;
+  background-color: yellow;
+}
+
+.wheel_row2_2 {
+  position: relative;
+  top: -500px;
+  left: 310px;
+  width: 270px;
+  height: 180px;
+  background-color: yellow;
+}
+
+.wheel_row2_3 {
+  position: relative;
+  top: -680px;
+  left: 600px;
+  width: 270px;
+  height: 180px;
+  background-color: yellow;
+}
+
+
+.wheel_row3_1 {
+  position: relative;
+  top: -660px;
+  left: 20px;
+  width: 270px;
+  height: 180px;
+  background-color: yellow;
+}
+
+.wheel_row3_2 {
+  position: relative;
+  top: -840px;
+  left: 310px;
+  width: 270px;
+  height: 180px;
+  background-color: yellow;
+}
+
+.wheel_row3_3 {
+  position: relative;
+  top: -1020px;
   left: 600px;
   width: 270px;
   height: 180px;
